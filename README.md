@@ -16,12 +16,12 @@
 
 <ul>
   <li>🎓 B.Tech CSE (Cybersecurity) student at <b>VNR VJIET, Hyderabad</b></li>
-  <li>🛡️ Interested in <b>cybersecurity, web security, and Capture The Flag challenges</b></li>
-  <li>🌐 Enjoy building <b>practical full-stack web applications</b> using the MERN stack</li>
-  <li>🧠 Strong foundation in <b>Data Structures, Computer Networks, OS, and DBMS</b></li>
-  <li>🤝 Volunteer at <b>GDGC VNR</b> in the cybersecurity & testing domain</li>
+  <li>🛡️ Strong interest in <b>cybersecurity, web security, and CTF challenges</b></li>
+  <li>🌐 Enjoy building <b>practical full-stack web applications</b> using MERN stack</li>
+  <li>🧠 Solid foundation in <b>Data Structures, Computer Networks, OS, and DBMS</b></li>
+  <li>🤝 Volunteer at <b>GDGC VNR</b> in cybersecurity & testing domain</li>
   <li>🚩 Have <b>hosted CTFs</b> and supported other technical initiatives</li>
-  <li>🛠️ Curious builder — I like understanding systems deeply and improving them</li>
+  <li>🛠️ Curious builder — I like breaking things, understanding them, and rebuilding them better</li>
 </ul>
 
 <p>
@@ -65,32 +65,12 @@
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bshashank123&show_icons=true&hide=issues,contribs&count_private=true&theme=default"
-    alt="GitHub stats"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bshashank123&layout=compact&langs_count=6&theme=default"
-    alt="Top languages"
-    height="140"
-  />
-</p>
-
-<hr>
-
 <h2>📌 What You’ll Find Here</h2>
 
 <ul>
-  <li>📁 Full-stack and web application projects</li>
-  <li>🧪 Experiments with cybersecurity tools and concepts</li>
-  <li>📚 Learning-focused repositories as I explore new technologies</li>
+  <li>📁 Web applications & full-stack projects</li>
+  <li>🧪 Experiments with security concepts & tools</li>
+  <li>📚 Learning projects as I explore new technologies</li>
 </ul>
 
 <p align="center">
