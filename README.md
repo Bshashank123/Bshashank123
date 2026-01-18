@@ -23,7 +23,7 @@ Computer Science Undergraduate (Cybersecurity) | Web Development | CTF Enthusias
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/shashank-bodduna-94ab18328" target="_blank">
+  <a href="https://linkedin.com/in/shashankbodduna" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/shashankbodduna1" target="_blank">
